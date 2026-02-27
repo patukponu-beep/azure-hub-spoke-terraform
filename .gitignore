@@ -2,6 +2,8 @@
 *.tfstate
 *.tfstate.backup
 *.tfstate.lock.info
+*.myplan
+
 
 # Terraform working directory
 .terraform/
@@ -9,6 +11,7 @@
 # Sensitive variable files
 terraform.tfvars
 *.auto.tfvars
+
 
 # Crash logs
 crash.log

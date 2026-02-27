@@ -10,3 +10,8 @@ variable "onprem_primary_public_ip" {
 variable "onprem_secondary_public_ip" {
   type = string
 }
+
+variable "vm_password" {
+  type      = string
+  sensitive = true
+}
