@@ -1,5 +1,10 @@
 # Azure Hub and Spoke Hybrid Networking with Terraform
 
+## Network Architecture Diagram
+![Hybrid Hub and Spoke Topology](images/topology.png)
+
+---
+
 ## Project Overview
 
 This project demonstrates a complete Azure-side hybrid networking deployment using Terraform.
